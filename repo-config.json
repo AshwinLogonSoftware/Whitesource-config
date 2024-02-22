@@ -2,6 +2,10 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
+    "enableLicenseViolations": "true",
+    "displayLicenseViolations": "true",
+    "enableReachability": true,
+    "exploitability": true,
     "enableIaC": "true",
     "baseBranches": []
   },
